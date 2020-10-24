@@ -5,4 +5,4 @@ const arrFill = (length, value) => {
     return new Array(length).fill(value)
 }
 
-console.log(arrFill(5, 'a'))
+console.log(arrFill(7, 'rrr'))
